@@ -1,0 +1,17 @@
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/QlNhanSuApplication.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/Role.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/config/SecurityConfig.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/controller/HomeController.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/controller/NhanVienController.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/controller/UserController.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/entity/NhanVien.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/entity/PhongBan.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/entity/Role.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/entity/User.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/repository/IRoleRepository.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/repository/IUserRepository.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/repository/NhanVienRepository.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/repository/PhongBanRepository.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/services/NhanVienService.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/services/PhongBanService.java
+/Users/nguyenhuyphong/Desktop/QLNhanSu/src/main/java/com/_7/QLNhanSu/services/UserService.java
